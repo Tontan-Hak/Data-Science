@@ -1,4 +1,5 @@
 # Data-Science for everybody
+
 Learning NumPy, SymPy, Pandas and Matplotlib
 
 # Master of data science
